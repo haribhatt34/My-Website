@@ -9,8 +9,12 @@ tags: [General]
 categories: [Miscellaneous]
 date: 2020-07-19T22:04:54+05:30
 lastmod: 2020-07-19T22:04:54+05:30
-featured: false
+featured: true
 draft: false
+reading_time: true 
+share: true
+profile: false
+commentable: false 
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -27,3 +31,9 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+
+Hey all, this my first blog post ever. I literally mean _ever_.
+I always wanted to write, but never got around to it. 
+
+Hopefully this is a starting of a new journey, and well, who knows, may be oneday I take the internet by storm, *hehe* !!!

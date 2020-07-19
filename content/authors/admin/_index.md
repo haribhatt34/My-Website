@@ -58,6 +58,6 @@ user_groups:
 
 Hari Shankar Bhatt is a Post Graudate from Maulana Azad National Institute of Technology. A Software Engineer by Profession. He loves to solve programming problems in his free time. 
 
-Currently he is learning 'Go' lanuage and building a building a Gallery Web app, where people can share their pictures.
+Currently he is learning 'Go' lanuage and building a Gallery Web app, where people can share their pictures.
 
 He is quite interested in sports and can play many games with natural ease. His favorites are Basketball, Table Tennis, and a new found love foosball. He has also started learning chess.
