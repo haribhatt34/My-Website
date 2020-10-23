@@ -58,12 +58,18 @@ subtitle = ""
  [[feature]]
   icon = "oracle"
   icon_pack = "custom"
-  name = "oracle.svg"
+  name = "oracle"
   description = "40%"
 
  [[feature]]
-  icon = "mongoDB"
+  icon = "mongodb"
   icon_pack = "custom"
   name = "mongoDB"
+  description = "30%"
+
+ [[feature]]
+  icon = "c++"
+  icon_pack = "custom"
+  name = "c++"
   description = "30%"
 +++
