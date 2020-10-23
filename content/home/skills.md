@@ -66,10 +66,4 @@ subtitle = ""
   icon_pack = "custom"
   name = "mongoDB"
   description = "30%"
-
- [[feature]]
-  icon = "c++"
-  icon_pack = "custom"
-  name = "c++"
-  description = "30%"
 +++
