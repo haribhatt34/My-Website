@@ -34,13 +34,36 @@ subtitle = ""
  [[feature]]
   icon = "go"
   icon_pack = "custom"
-  name = "Go"
-  description = "90%"
+  name = "go"
+  description = "45%"
 
  [[feature]]
   icon = "java"
   icon_pack = "custom"
-  name = "Java"
-  description = "90%"
+  name = "java"
+  description = "35%"
 
+ [[feature]]
+  icon = "c++"
+  icon_pack = "custom"
+  name = "c++"
+  description = "55%"
+
+ [[feature]]
+  icon = "redis"
+  icon_pack = "custom"
+  name = "redis"
+  description = "30%"
+
+ [[feature]]
+  icon = "oracle"
+  icon_pack = "custom"
+  name = "oracle.svg"
+  description = "40%"
+
+ [[feature]]
+  icon = "mongoDB"
+  icon_pack = "custom"
+  name = "mongoDB"
+  description = "30%"
 +++
